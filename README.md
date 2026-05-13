@@ -1,0 +1,1 @@
+Developed a conversational AI chatbot using LangChain and Gemini API with integrated memory handling. The chatbot maintains conversational context across interactions using ConversationBufferMemory and dynamically generates responses through ConversationChain architecture. Implemented real-time user interaction flow, prompt handling, and contextual response generation in Python.
